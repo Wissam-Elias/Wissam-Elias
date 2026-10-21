@@ -21,4 +21,14 @@ I'm currently working as an Engineering Manager at L-One Systems Gmbh.
 ---
 [![](https://komarev.com/ghpvc/?username=Wissam-Elias&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🌟 Featured Open Source Contributions
+
+<a href="https://github.com/monkeytypegame/monkeytype">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=monkeytypegame&repo=monkeytype&theme=tokyonight&hide_border=false" alt="Monkeytype Repository" />
+</a>
+
+#### ⌨️ [Monkeytype](https://github.com/monkeytypegame/monkeytype)
+
+![Merged](https://img.shields.io/badge/PR-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)
