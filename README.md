@@ -14,13 +14,6 @@ I'm currently working as an Engineering Manager at L-One Systems Gmbh.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wissam-Elias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Wissam-Elias&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Wissam-Elias&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ### 🌟 Featured Open Source Contributions
 
