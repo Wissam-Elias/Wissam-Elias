@@ -29,6 +29,12 @@ I'm currently working as an Engineering Manager at L-One Systems Gmbh.
 
 🔗 **[View My Merged Pull Request →](https://github.com/monkeytypegame/monkeytype/pull/8489)**
 
+---
+
+<a href="https://github.com/fajarghifar/inventory-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fajarghifar&repo=inventory-management-system&theme=tokyonight&hide_border=false" alt="Laravel Inventory Management System Repository" />
+</a>
+
 #### 📦 [Laravel Inventory Management System](https://github.com/fajarghifar/inventory-management-system)
 
 ![Merged](https://img.shields.io/badge/PR-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white)
@@ -36,3 +42,5 @@ I'm currently working as an Engineering Manager at L-One Systems Gmbh.
 ![PR](https://img.shields.io/badge/PR-%2326-blue?style=for-the-badge)
 
 🔗 **[View My Merged Pull Request →](https://github.com/fajarghifar/inventory-management-system/pull/26)**
+
+---
