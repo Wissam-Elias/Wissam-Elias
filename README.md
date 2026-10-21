@@ -26,3 +26,4 @@ I'm currently working as an Engineering Manager at L-One Systems Gmbh.
 ![Merged](https://img.shields.io/badge/PR-Merged-8957E5?style=for-the-badge&logo=github&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)
 ![PR](https://img.shields.io/badge/PR-%238489-blue?style=for-the-badge)
+🔗 **[View My Merged Pull Request →](https://github.com/monkeytypegame/monkeytype/pull/8489)**
